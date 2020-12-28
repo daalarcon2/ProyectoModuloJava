@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="PrecioSuite">
+    <test name="Comparing prices">
+        <groups>
+            <run>
+                <include name="caso3"></include>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="Tests.precioProductoTest">
+                <methods>
+                    <include name="doPrice "></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

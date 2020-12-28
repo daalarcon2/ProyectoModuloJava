@@ -1,0 +1,4 @@
+Tests\baseTest.class
+PageObjects\RegistroPage.class
+PageObjects\BasePage.class
+Tests\RegistroTest.class

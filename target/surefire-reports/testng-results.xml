@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="12060" started-at="2020-11-01T11:13:20 COT" finished-at="2020-11-01T11:13:32 COT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12060" started-at="2020-11-01T11:13:20 COT" finished-at="2020-11-01T11:13:32 COT">
+      <class name="Tests.RegistroTest">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:Tests.RegistroTest@f6c48ac]" name="setUpTest" is-config="true" duration-ms="3717" started-at="2020-11-01T11:13:20 COT" finished-at="2020-11-01T11:13:23 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="doRegistro()[pri:0, instance:Tests.RegistroTest@f6c48ac]" name="doRegistro" duration-ms="8315" started-at="2020-11-01T11:13:23 COT" finished-at="2020-11-01T11:13:32 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegistro -->
+      </class> <!-- Tests.RegistroTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
